@@ -35,12 +35,6 @@ cmake --build .
 
 
 
-         =========================================================
-         Geant4 - an Object-Oriented Toolkit for Simulation in HEP
-         =========================================================
-
-                                   WLS
-                                ----------
 
   This application simulates the propagation of optical photons inside a
 Wave Length Shifting (WLS) fiber.
